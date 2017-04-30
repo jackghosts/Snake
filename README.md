@@ -1,2 +1,2 @@
 # Snake
-an example(download from internet)
+My homework
